@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 10px 30px;
+    background-color: #808080;
+
+}
+
+h1 {
+    color: #FDFFFF;
+    font-size: 22px;
+}
+
+div.inline {
+    background-color: #FEA500;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
